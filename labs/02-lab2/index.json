@@ -1,6 +1,6 @@
 {
-    "title": "Let's do Linux",
-    "description": "Look around a Linux System",
+    "title": "dotnet on linux",
+    "description": "Lets build a dot net app",
     "details": {
       "intro": {
         "text": "intro.md",
