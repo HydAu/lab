@@ -1,4 +1,5 @@
 apt install -y sysstat
 
-apt install -y dotnet8
+sudo apt install -y dotnet8
+
 
